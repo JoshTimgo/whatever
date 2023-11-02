@@ -4,6 +4,8 @@
   border-top-style: solid;
   border-top-color: rgb(228, 228, 228);
   height: 28px;
+      padding-top: 1px;
+  padding-bottom: 1px;
 }
 .notifications-count {
   position: absolute;
@@ -14,14 +16,16 @@
   font-size: 5px;
   padding-left: 1px;
   padding-right: 1px;
-  padding-top: 0.5px;
-  padding-bottom: 0.5px;
+  padding-top: 1px;
+  padding-bottom: 1px;
   border-radius: 1px;
 }
 
 .current-user-picture {
   height: 8px;
   border-radius: 1px;
+    padding-top: 1px;
+  padding-bottom: 1px;
 }
 .search-bar {
   flex: 1;
@@ -42,6 +46,8 @@
   max-width: 500px;
   display: flex;
   align-items: center;
+    padding-top: 1px;
+  padding-bottom: 1px;
 }
 .search-button {
   height: 8px;
@@ -54,6 +60,8 @@
   margin-right: 2px;
   margin-top: 1px;
   margin-bottom: 1px;
+    padding-top: 1px;
+  padding-bottom: 1px;
 }
 .voice-search-button {
   height: 8px;
@@ -78,6 +86,8 @@
 }
 .search-bar::placeholder {
   font-size: 5px;
+    padding-top: 1px;
+  padding-bottom: 1px;
 }
 .search-button,
 .voice-search-button,
@@ -86,6 +96,8 @@
   justify-content: center;
   align-items: center;
   position: relative;
+    padding-top: 1px;
+  padding-bottom: 1px;
 }
 .search-button .tooltip,
 .voice-search-button .tooltip,
@@ -109,12 +121,18 @@
 .voice-search-button:hover .tooltip,
 .upload-icon-container:hover .tooltip {
   opacity: 1;
+    padding-top: 1px;
+  padding-bottom: 1px;
 }
 .search-icon {
   height: 4px;
+    padding-top: 1px;
+  padding-bottom: 1px;
 }
 .voice-search-icon {
   height: 4px;
+    padding-top: 1px;
+  padding-bottom: 1px;
 }
 .right-section {
   width: 180px;
@@ -123,16 +141,26 @@
   align-items: center;
   justify-content: space-between;
   flex-shrink: 0;
+    padding-top: 1px;
+  padding-bottom: 1px;
 }
 .upload-icon {
   height: 8px;
+    padding-top: 1px;
+  padding-bottom: 1px;
 }
 .youtube-apps-icon {
   height: 8px;
+    padding-top: 1px;
+  padding-bottom: 1px;
 }
 .notifications-icon {
   height: 8px;
+    padding-top: 1px;
+  padding-bottom: 1px;
 }
 .notifications-icon-container {
   position: relative;
+    padding-top: 1px;
+  padding-bottom: 1px;
 }
