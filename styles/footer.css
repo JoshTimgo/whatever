@@ -7,26 +7,6 @@
       padding-top: 1px;
   padding-bottom: 1px;
 }
-.notifications-count {
-  position: absolute;
-  top: -1px;
-  right: -2px;
-  background-color: rgb(200, 0, 0);
-  color: white;
-  font-size: 5px;
-  padding-left: 1px;
-  padding-right: 1px;
-  padding-top: 1px;
-  padding-bottom: 1px;
-  border-radius: 1px;
-}
-
-.current-user-picture {
-  height: 8px;
-  border-radius: 1px;
-    padding-top: 1px;
-  padding-bottom: 1px;
-}
  
 .middle-section {
   flex: 1;
