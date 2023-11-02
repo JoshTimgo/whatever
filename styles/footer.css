@@ -20,8 +20,8 @@
 }
 
 .current-user-picture {
-  height: 18px;
-  border-radius: 5px;
+  height: 13px;
+  border-radius: 1px;
 }
 .search-bar {
   flex: 1;
@@ -29,7 +29,7 @@
   padding-left: 8px;
   font-size: 8px;
   border: 1px solid rgb(192, 192, 192);
-  border-radius: 2px;
+  border-radius: 1px;
   box-shadow: inset 1px 2px 3px rgba(0, 0, 0, 0.05);
   width: 0;
 }
@@ -54,18 +54,18 @@
 .voice-search-button {
   height: 13px;
   width: 18px;
-  border-radius: 3px;
+  border-radius: 1px;
   border: none;
   background-color: rgb(245, 245, 245);
 }
 .hamburger-menu {
-  height: 18px;
-  margin-left: 18px;
-  margin-right: 18px;
+  height: 13px;
+  margin-left: 13px;
+  margin-right: 13px;
 }
 
 .youtube-logo {
-  height: 18px;
+  height: 13px;
 }
 .search-bar::placeholder {
   font-size: 8px;
@@ -87,8 +87,8 @@
   color: white;
   padding-top: 0px;
   padding-bottom: 0px;
-  padding-left: 2px;
-  padding-right: 2px;
+  padding-left: 1px;
+  padding-right: 1px;
   border-radius: 1px;
   font-size: 8px;
   bottom: -30px;
@@ -111,7 +111,7 @@
 }
 .right-section {
   width: 180px;
-  margin-right: 18px;
+  margin-right: 8px;
   display: flex;
   align-items: center;
   justify-content: space-between;
