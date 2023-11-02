@@ -1,0 +1,33 @@
+.sidebar-left ,
+.sidebar-right {
+  position: fixed;
+  bottom: 55px;
+  top: 55px;
+  background-color: white;
+  width: 56px;
+  padding-top: 5px;
+}
+.sidebar-left-link,
+.sidebar-right-link {
+  height: 56px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  cursor: pointer;
+}
+.sidebar-left-link:hover,
+.sidebar-right-link:hover {
+  background-color: rgb(235, 235, 235);
+}
+.sidebar-left-link ,
+.sidebar-right-link  {
+ src="icons/home.svg"
+ image-height: 24px;
+ margin-bottom: 4px;
+}
+.sidebar-left-link div,
+.sidebar-right-link div { 
+  font-size: 10px;
+}
+
